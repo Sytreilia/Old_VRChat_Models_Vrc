@@ -1,0 +1,208 @@
+Inspiration: Umamusume Special Week, Blue Archive Steam community art, Blue Archive Nozomi, Waidayo default character, 秦泊夜 Virtual Anchor VUP on bilibili
+
+Fix Neko Hair within character (not necessary)
+Fix un-even, un-smooth hips (unnecessary)
+fix large hip bones (not necessary)
+raise breast position on y-axis (unnecessary) <<
+maximise thigh-gap (unnecessary) <<
+simply adjust face keys (unnecessary) <<
+Fixes improper blendshapes (unnecessary) <<
+
+
+Fix large collarbone (vroid) <<
+
+- soften collarbone 100
+
+Fix large hands (vroid) <<
+
+- finger size -0.643
+
+fix small cheek bones (vroid) <<
+
+- sunken cheeks 0.275
+
+fix sharp jawline (vroid) <<
+
+- cute side profile: Chin Tip Position(z) 0.154
+- chin width 0.348
+
+separate overlapping meshes: ears, hair (vroid) <<
+
+- move ears behind hair extra
+
+larger ears (vroid) <<
+
+- ear size (bigger) 100
+- fur volume 100
+- ears look even with top of hair
+
+more ear physics (vroid) <<
+
+- prevent excessive shaking during movement 
+
+- outfit: amplitude 200
+
+- body: amplitude 0 (prevents excessive breast movements)
+
+body tiles black hexagons size gradient math (vroid texture) <<
+
+cyan tongue (vroid) <<
+
+- custom texture
+
+cyan mouth inner (vroid) <<
+
+- custom texture
+
+void bodysuit, use skin texture instead (vroid) << 
+
+- custom texture
+
+decrease breast size, use relative measurements from circumference of cheeks (vroid) <<
+
+- Chest Size -0.260
+
+Change skin shadow to mitigate the illusion of sheer clothing:
+
+- Look>Body>Shading Area -1>Shading Hardness 1
+- Fix odd face look when posing:
+- look>face>shade softness 0>shading area -1>shading hardness 1
+- look>hair>shading area -1>shading hardness 1
+
+Rim Light:
+- look>Rim Light>Hair>intensity 100>concentration 100
+- look>Rim Light>face>intensity 100>concentration 100
+- look>Rim Light>body>intensity 100>concentration 100
+
+Skin Colors:
+EFBAA3 dark color
+
+FAEBDE color
+
+FFF7F1 light color
+
+Sytreilia V4 Settings (Old):
+
+inspired by: Special Week (Umamusume)
+
+
+
+Software used: Vroid Studio (Pixiv, 3d modeling and export .vrm 3D model, free(check use case liscenses for preset characters and assets, you can make your own free too), Clip Studio Paint Pro Permanent Liscense Windows(try using any other drawing/illustration software for free too like ibis paint x, windows paint, gimp, etc.), (find one that is easy to use), (2025, 1024 x 512 iris & highlight textures: pen edit with eyedropper color picker and reduce pen transparency(edit one eye if mirroring eyes)->mask layer->lasso (rectangle)->select side of the texture with the eye you edited to the center of the texture->copy->paste->edit tab->transform->flip horizontal->operation[cursor with cube tool]->move the layer parallel on the opposite side of existing eye->click [ok] on confirm transform->on the right side of clip studio paint pro [delete base canvas(behind textures)] for transparent background->when done with edits go to top left corner and click [file]->[export(single layer)]->hover mouse over the buttons and click .png(PNG)->check your downloads folder or folder for clip studio paint pro to access your file->go to Vroid Studio->the place you want to add a texture like [face]->[Irises]->[custom(button next to presets)]->choose what you want to do from there->I added new and deleted the default and clicked [+] to add my texture and changed the tab for the->[Eye Highlights])
+fem
+custom iris & eye highlights texture, custom nose dot marker point texture (I used native Vroid editor for dot)
+iris and eyeliner color hex #00FFFF cyan
+check expressions at bottom of face tab: make sure nothing strange on each of them
+no face paint, no cheeks, default lips, default skin, mouth inside is the vibrant red one, default mouth color, default expressions, invisible eyelashes, no eyelids, default eyebrows, 
+
+Eyeliner:
+eye size x 0.947
+eye size y 0.581
+eyes position y 0
+eyes position x -0.062
+rotate eye socket -0.282
+inner eye slant y -0.599
+reduce inner slant 0
+outer eye slant y 0.185
+straighten upper eyelid 0
+straighten lower eyelid 0
+move upper eyelid down 0
+move lower eyelid up 0
+scornful look 0
+droopy eyes 0
+lower eyelashes tips 0
+fem eyes 0
+masc eyes 0
+
+Skin:
+ear size 0
+ear tip y 0
+ear stretch 0
+rounder ears 1.0
+remove ears 18.502
+jaw position y 0.432
+cheekbones position z -1.0
+sunken cheeks 0
+chin roundness 0
+jawline position y 0.586
+chin length 0.586
+chin tip position z 1
+chin width -1.0
+jaw angle increase 0
+fem face 1
+masc face 0
+fem outlines 0
+masc outlines 0
+fem head 0
+masc head 0
+
+Mouth:
+mouth width 0
+mouth position y 0.097
+mouth corners 0
+mouth z 0
+thinner lips 0
+thicker upper lip fem 0
+thicker lower lip fem 0
+thicker upper lip masc 0
+thicker lower lip masc 0
+vampire teeth lip 0
+vampire tooth skin, right 0
+vampire tooth skin, left 0
+hide teeth 0
+hide teeth lower 0
+hide teeth upper 0
+vampire teeth 0
+vampire teeth lower 0
+vampire teeth upper 0
+shark teeth 0
+shark teeth lower 0
+shark teeth upper 0
+front teeth fang 0
+front teeth fang lower 0
+front teeth fang upper 0
+teeth shrink 0
+teeth shrink lower 0
+teeth shrink upper 0
+fem mouth 0
+masc mouth 0
+
+Nose:
+nose size 0
+nose width 0
+nose tip position y 0.493
+nose size 0
+nose bridge prominence 0
+nose bridge width 0
+nose bridge curve 0
+nose size scale 0
+nose base prominence y 0
+nose base prominence z 0
+fem nose 0
+masc nose 0
+
+Body:
+head tip y -1.0
+Chest Size 0.251
+waist width -1.0
+193cm height (6'4" six foot, four inches)
+Fem Height 1
+Body Size 0.291(for my height)
+
+Hairstyle:
+white highlights hex #FFFFFF
+main color hex #00FFFF cyan
+1 side preset, 1 back preset, 1 ahoge, 1 extra, no(0) extensions, 1 front
+Make sure Base Hair is removed [0]
+
+Accessories:
+Cat Ears: Tip Roundness 100
+color hex #00FFFF cyan
+Cat Tail: Tail Length 1, Remove Tuft 1
+color hex #00FFFF cyan
+
+Outfit:
+custom->tops->bodysuit
+shrink bodysuit 0 (prevents skin from showing through bodysuit)
+
+Look:
+Outline: all 0
