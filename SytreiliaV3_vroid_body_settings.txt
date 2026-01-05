@@ -1,0 +1,126 @@
+inspired by: ひゅうがなつみかんひゅうがなつみかん
+【オリジナル3Dモデル】まりえる
+
+    ダウンロード商品
+    ¥ 5,500
+
+商品公開日時：2021年10月31日 15時57分
+eng->[Mariel 3D model: Booth.pm] https://booth.pm/ja/items/3390339 (3d model & asset store), & NachoNeko(VTuber) art(google)
+Software used: Vroid Studio (Pixiv, 3d modeling and export .vrm 3D model, free(check use case liscenses for preset characters and assets, you can make your own free too), Clip Studio Paint Pro Permanent Liscense Windows(try using any other drawing/illustration software for free too like ibis paint x, windows paint, gimp, etc.), (find one that is easy to use), (2025, 1024 x 512 iris & highlight textures: pen edit with eyedropper color picker and reduce pen transparency(edit one eye if mirroring eyes)->mask layer->lasso (rectangle)->select side of the texture with the eye you edited to the center of the texture->copy->paste->edit tab->transform->flip horizontal->operation[cursor with cube tool]->move the layer parallel on the opposite side of existing eye->click [ok] on confirm transform->on the right side of clip studio paint pro [delete base canvas(behind textures)] for transparent background->when done with edits go to top left corner and click [file]->[export(single layer)]->hover mouse over the buttons and click .png(PNG)->check your downloads folder or folder for clip studio paint pro to access your file->go to Vroid Studio->the place you want to add a texture like [face]->[Irises]->[custom(button next to presets)]->choose what you want to do from there->I added new and deleted the default and clicked [+] to add my texture and changed the tab for the->[Eye Highlights])
+fem
+custom iris & eye highlights texture, custom nose dot marker point texture (I used native Vroid editor for dot)
+iris and eyeliner color hex #00FFFF cyan
+check expressions at bottom of face tab: make sure nothing strange on each of them
+no face paint, no cheeks, default lips, default skin, mouth inside is the vibrant red one, default mouth color, default expressions, invisible eyelashes, no eyelids, default eyebrows, 
+
+Eyeliner:
+eye size x 0.947
+eye size y 0.581
+eyes position y 0
+eyes position x -0.062
+rotate eye socket -0.282
+inner eye slant y -0.599
+reduce inner slant 0
+outer eye slant y 0.185
+straighten upper eyelid 0
+straighten lower eyelid 0
+move upper eyelid down 0
+move lower eyelid up 0
+scornful look 0
+droopy eyes 0
+lower eyelashes tips 0
+fem eyes 0
+masc eyes 0
+
+Skin:
+ear size 0
+ear tip y 0
+ear stretch 0
+rounder ears 1
+remove ears 18.502
+jaw position y 0.432
+cheekbones position z 0
+sunken cheeks 0
+chin roundness 0
+jawline position y 0
+chin length 1
+chin tip position z 1
+chin width -1.0
+jaw angle increase 0
+fem face 1
+masc face 0
+fem outlines 0
+masc outlines 0
+fem head 0
+masc head 0
+
+Mouth:
+mouth width 0
+mouth position y 0.802
+mouth corners 0
+mouth z 0
+thinner lips 0
+thicker upper lip fem 0
+thicker lower lip fem 0
+thicker upper lip masc 0
+thicker lower lip masc 0
+vampire teeth lip 0
+vampire tooth skin, right 0
+vampire tooth skin, left 0
+hide teeth 0
+hide teeth lower 0
+hide teeth upper 0
+vampire teeth 0
+vampire teeth lower 0
+vampire teeth upper 0
+shark teeth 0
+shark teeth lower 0
+shark teeth upper 0
+front teeth fang 0
+front teeth fang lower 0
+front teeth fang upper 0
+teeth shrink 0
+teeth shrink lower 0
+teeth shrink upper 0
+fem mouth 0
+masc mouth 0
+
+Nose:
+nose size 0
+nose width 0
+nose tip position y 0.493
+nose size 0
+nose bridge prominence 0
+nose bridge width 0
+nose bridge curve 0
+nose size scale 0
+nose base prominence y 0
+nose base prominence z 0
+fem nose 0
+masc nose 0
+
+Body:
+head tip y -1.0
+waist width -0.370
+193cm height (6'4" six foot, four inches)
+Fem Height 1
+Body Size 0.291(for my height)
+
+Hairstyle:
+white highlights hex #FFFFFF
+main color hex #00FFFF cyan
+1 side preset, 1 back preset, 1 ahoge, 1 extra, no(0) extensions, 1 front
+Make sure Base Hair is removed [0]
+
+Accessories:
+Cat Ears: Tip Roundness 100
+color hex #00FFFF cyan
+Cat Tail: Tail Length 1, Remove Tuft 1
+color hex #00FFFF cyan
+
+Outfit:
+custom->tops->bodysuit
+shrink bodysuit 0 (prevents skin from showing through bodysuit)
+
+Look:
+Outline: all 0
